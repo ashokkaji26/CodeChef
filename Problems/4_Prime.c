@@ -12,6 +12,7 @@ int main() {
         return 0;
     }
     
+    
     int i = 2;
     int isPrime = 1;
     while(i*i<=num){
